@@ -104,3 +104,4 @@
 </picture>
 
 ###
+<img src="https://raw.githubusercontent.com/thekzbn/thekzbn/output/snake.svg" alt="Snake animation" />
