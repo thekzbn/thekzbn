@@ -99,6 +99,10 @@ Currently, I am working on a project called **patch.md**, a self-healing plugin 
 ```
 
 
+### Find Me Here
+[Portfolio](https://www.thekzbn.name.ng) • [Twitter / X](https://x.com/thekzbn_me) • [Email](mailto:thekzbn.work@gmail.com)
+
+
 
 ```
 +@@@@@@@@@@@@@@@@@@                          .@@@@@@@@@    
@@ -131,6 +135,3 @@ Currently, I am working on a project called **patch.md**, a self-healing plugin 
    %@@@@@@@@:                         +@@@@@@@@@@@@@@@@@@  
   @@@@@@@@@                             @@@@@@@@@@@@@@@@@@ 
 ```
-
-### Find Me Here
-[Portfolio](https://www.thekzbn.name.ng) • [Twitter / X](https://x.com/thekzbn_me) • [Email](mailto:thekzbn.work@gmail.com)
