@@ -1,4 +1,4 @@
-# Hi
+# Hey, I’m Ayomide
 
 My name is Ayomide Deji-Adeyale
 ```                                                                   
@@ -49,7 +49,7 @@ My name is Ayomide Deji-Adeyale
 @@%#%%%%%%%%%%%%%%%%%%#%###%#%%%%##%%%%%%%%%%%%%%%%%%%%#%%#%%%##%#%%%%#%%%%#%%%%%%##%##%###
 ```
 
-I am a **16** year old *front-end designer* living in Lagos, Nigeria
+I am a **17** year old *front-end designer and developer* living in Lagos, Nigeria
 ```
                                .@@@#.    +*******##############%%%%%#..                   
                                -@@@@@@::%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@...                 
@@ -84,9 +84,19 @@ I know a few languages but I mostly use TypeScript and CSS and I am currently le
  *****************************   ###########################              %%%%-           
 ```
 
-You can visit my personal portfolio at [thekzbn.name.ng](https://www.thekzbn.name.ng)
+My portfolio lives at [thekzbn.name.ng](https://www.thekzbn.name.ng). I’m interested in restrained, carefully composed interfaces, and in making useful things that feel considered rather than crowded.
 
-Currently, I am working on a project called **patch.md**, a self-healing plugin system that lets applications safely run custom, AI-generated features without risking security or system stability. Instead of injecting fragile generated code directly into a codebase, it keeps the permanent human request in a simple text file while compiling the actual execution logic into an isolated WebAssembly sandbox. When the main application updates and changes its underlying structure, patch.md automatically detects the shift, re-synthesizes the feature against host-provided test suites, and hot-swaps the updated module live, or gracefully pauses the feature if an automated repair is impossible.
+### Things I’m building
+
+- **[Reeda](https://github.com/thekzbn/reeda)** — a reading workspace that keeps PDFs and your notes together, so reading and thinking can happen side by side.
+- **[C++ Core](https://github.com/thekzbn/cpp-core)** — an interactive C++ tutorial that runs in the browser, with local compiler support.
+- **[Bob](https://github.com/thekzbn/bob)** — a compiler project, because apparently learning one layer of how computers work was not enough.
+- **Geng Shii** — a terminal-style adventure game built around stateful storytelling. More on [my portfolio](https://www.thekzbn.name.ng).
+
+### Writing
+
+- **[faction](https://faction.thekzbn.name.ng)** — technology, explained properly: clear writing about AI, software, privacy, security, and digital culture. Recent pieces: [How much water does AI drink?](https://faction.thekzbn.name.ng/ai-and-water) and [It’s Crunch Time for Humanity](https://faction.thekzbn.name.ng/its-crunch-time-for-humanity).
+- **[random thoughts ig](https://rtig.substack.com)** — the less neatly filed thoughts. I’ve written about how we define intelligence, among other things: [Intelligence](https://rtig.substack.com/p/intelligence).
 
 ```                                                                                                   
                                      @             @                           =@                   
@@ -100,7 +110,7 @@ Currently, I am working on a project called **patch.md**, a self-healing plugin 
 
 
 ### Find Me Here
-[Portfolio](https://www.thekzbn.name.ng) • [Twitter / X](https://x.com/thekzbn_me) • [Email](mailto:thekzbn.work@gmail.com)
+[Portfolio](https://www.thekzbn.name.ng) • [Twitter / X](https://x.com/thekzbn_me) • [Email](mailto:thekzbn@proton.me)
 
 
 
