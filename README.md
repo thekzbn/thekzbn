@@ -1,15 +1,6 @@
 # Hey, I’m Ayomide
 
-```text
-       .-""""-.
-     .'  .--.  '.
-    /   /    \   \
-   |   | o  o |   |
-   |   |  __  |   |
-    \   \____/   /
-     '._      _.'
-        '----'
-```
+<img src="https://avatars.githubusercontent.com/u/200910760?v=4" width="120" alt="Ayomide's GitHub profile picture" />
 
 I’m a **17-year-old front-end designer and developer** in Lagos, Nigeria. I like thoughtful interfaces, useful tools, and the occasional project that turns out to need a compiler.
 
